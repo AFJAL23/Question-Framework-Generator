@@ -1,0 +1,406 @@
+[
+  {
+    "question_id": "AIML_E_01",
+    "domain": "AI/ML",
+    "difficulty": "easy",
+    "topic": "basics",
+    "type": "conceptual",
+    "question_text": "What is Machine Learning?"
+  },
+  {
+    "question_id": "AIML_E_02",
+    "domain": "AI/ML",
+    "difficulty": "easy",
+    "topic": "supervised",
+    "type": "conceptual",
+    "question_text": "What is supervised learning?"
+  },
+  {
+    "question_id": "AIML_E_03",
+    "domain": "AI/ML",
+    "difficulty": "easy",
+    "topic": "unsupervised",
+    "type": "conceptual",
+    "question_text": "What is unsupervised learning?"
+  },
+  {
+    "question_id": "AIML_M_01",
+    "domain": "AI/ML",
+    "difficulty": "medium",
+    "topic": "overfitting",
+    "type": "interview",
+    "question_text": "What is overfitting and how can you reduce it?"
+  },
+  {
+    "question_id": "AIML_M_02",
+    "domain": "AI/ML",
+    "difficulty": "medium",
+    "topic": "regression",
+    "type": "interview",
+    "question_text": "Difference between linear and logistic regression?"
+  },
+  {
+    "question_id": "AIML_M_03",
+    "domain": "AI/ML",
+    "difficulty": "medium",
+    "topic": "metrics",
+    "type": "interview",
+    "question_text": "When is precision better than accuracy?"
+  },
+  {
+    "question_id": "AIML_M_04",
+    "domain": "AI/ML",
+    "difficulty": "medium",
+    "topic": "cross-validation",
+    "type": "interview",
+    "question_text": "Why do we use cross-validation?"
+  },
+  {
+    "question_id": "AIML_H_01",
+    "domain": "AI/ML",
+    "difficulty": "hard",
+    "topic": "gradient-descent",
+    "type": "interview",
+    "question_text": "Explain gradient descent."
+  },
+  {
+    "question_id": "AIML_H_02",
+    "domain": "AI/ML",
+    "difficulty": "hard",
+    "topic": "bias-variance",
+    "type": "interview",
+    "question_text": "Explain bias variance tradeoff."
+  },
+  {
+    "question_id": "AIML_H_03",
+    "domain": "AI/ML",
+    "difficulty": "hard",
+    "topic": "regularization",
+    "type": "interview",
+    "question_text": "Difference between L1 and L2 regularization?"
+  },
+
+  {
+    "question_id": "PY_E_01",
+    "domain": "Python",
+    "difficulty": "easy",
+    "topic": "basics",
+    "type": "conceptual",
+    "question_text": "What is Python?"
+  },
+  {
+    "question_id": "PY_E_02",
+    "domain": "Python",
+    "difficulty": "easy",
+    "topic": "list-tuple",
+    "type": "conceptual",
+    "question_text": "Difference between list and tuple?"
+  },
+  {
+    "question_id": "PY_E_03",
+    "domain": "Python",
+    "difficulty": "easy",
+    "topic": "dictionary",
+    "type": "conceptual",
+    "question_text": "What is a dictionary?"
+  },
+  {
+    "question_id": "PY_M_01",
+    "domain": "Python",
+    "difficulty": "medium",
+    "topic": "args",
+    "type": "interview",
+    "question_text": "Explain *args and **kwargs."
+  },
+  {
+    "question_id": "PY_M_02",
+    "domain": "Python",
+    "difficulty": "medium",
+    "topic": "copy",
+    "type": "interview",
+    "question_text": "Difference between deep copy and shallow copy?"
+  },
+  {
+    "question_id": "PY_M_03",
+    "domain": "Python",
+    "difficulty": "medium",
+    "topic": "file",
+    "type": "interview",
+    "question_text": "Explain file handling modes."
+  },
+  {
+    "question_id": "PY_M_04",
+    "domain": "Python",
+    "difficulty": "medium",
+    "topic": "oop",
+    "type": "interview",
+    "question_text": "Explain OOP concepts in Python."
+  },
+  {
+    "question_id": "PY_H_01",
+    "domain": "Python",
+    "difficulty": "hard",
+    "topic": "decorator",
+    "type": "interview",
+    "question_text": "What are decorators?"
+  },
+  {
+    "question_id": "PY_H_02",
+    "domain": "Python",
+    "difficulty": "hard",
+    "topic": "generator",
+    "type": "interview",
+    "question_text": "Explain generators and yield."
+  },
+  {
+    "question_id": "PY_H_03",
+    "domain": "Python",
+    "difficulty": "hard",
+    "topic": "gil",
+    "type": "interview",
+    "question_text": "What is GIL in Python?"
+  },
+
+  {
+    "question_id": "DSA_E_01",
+    "domain": "DSA",
+    "difficulty": "easy",
+    "topic": "array",
+    "type": "conceptual",
+    "question_text": "What is an array?"
+  },
+  {
+    "question_id": "DSA_E_02",
+    "domain": "DSA",
+    "difficulty": "easy",
+    "topic": "linked-list",
+    "type": "conceptual",
+    "question_text": "What is linked list?"
+  },
+  {
+    "question_id": "DSA_E_03",
+    "domain": "DSA",
+    "difficulty": "easy",
+    "topic": "stack",
+    "type": "conceptual",
+    "question_text": "What is stack?"
+  },
+  {
+    "question_id": "DSA_M_01",
+    "domain": "DSA",
+    "difficulty": "medium",
+    "topic": "queue",
+    "type": "interview",
+    "question_text": "Difference between stack and queue?"
+  },
+  {
+    "question_id": "DSA_M_02",
+    "domain": "DSA",
+    "difficulty": "medium",
+    "topic": "recursion",
+    "type": "interview",
+    "question_text": "Explain recursion with example."
+  },
+  {
+    "question_id": "DSA_M_03",
+    "domain": "DSA",
+    "difficulty": "medium",
+    "topic": "binary-search",
+    "type": "interview",
+    "question_text": "Explain binary search."
+  },
+  {
+    "question_id": "DSA_M_04",
+    "domain": "DSA",
+    "difficulty": "medium",
+    "topic": "complexity",
+    "type": "interview",
+    "question_text": "What is time complexity?"
+  },
+  {
+    "question_id": "DSA_H_01",
+    "domain": "DSA",
+    "difficulty": "hard",
+    "topic": "merge-sort",
+    "type": "interview",
+    "question_text": "Explain merge sort."
+  },
+  {
+    "question_id": "DSA_H_02",
+    "domain": "DSA",
+    "difficulty": "hard",
+    "topic": "tree",
+    "type": "interview",
+    "question_text": "Explain binary tree types."
+  },
+  {
+    "question_id": "DSA_H_03",
+    "domain": "DSA",
+    "difficulty": "hard",
+    "topic": "dp",
+    "type": "interview",
+    "question_text": "What is dynamic programming?"
+  },
+
+  {
+    "question_id": "WD_E_01",
+    "domain": "Web Development",
+    "difficulty": "easy",
+    "topic": "html",
+    "type": "conceptual",
+    "question_text": "What is HTML?"
+  },
+  {
+    "question_id": "WD_E_02",
+    "domain": "Web Development",
+    "difficulty": "easy",
+    "topic": "css",
+    "type": "conceptual",
+    "question_text": "What is CSS?"
+  },
+  {
+    "question_id": "WD_E_03",
+    "domain": "Web Development",
+    "difficulty": "easy",
+    "topic": "javascript",
+    "type": "conceptual",
+    "question_text": "What is JavaScript?"
+  },
+  {
+    "question_id": "WD_M_01",
+    "domain": "Web Development",
+    "difficulty": "medium",
+    "topic": "dom",
+    "type": "interview",
+    "question_text": "What is DOM?"
+  },
+  {
+    "question_id": "WD_M_02",
+    "domain": "Web Development",
+    "difficulty": "medium",
+    "topic": "responsive",
+    "type": "interview",
+    "question_text": "Explain responsive web design."
+  },
+  {
+    "question_id": "WD_M_03",
+    "domain": "Web Development",
+    "difficulty": "medium",
+    "topic": "http",
+    "type": "interview",
+    "question_text": "Difference between GET and POST?"
+  },
+  {
+    "question_id": "WD_M_04",
+    "domain": "Web Development",
+    "difficulty": "medium",
+    "topic": "api",
+    "type": "interview",
+    "question_text": "What is REST API?"
+  },
+  {
+    "question_id": "WD_H_01",
+    "domain": "Web Development",
+    "difficulty": "hard",
+    "topic": "jwt",
+    "type": "interview",
+    "question_text": "Explain JWT authentication."
+  },
+  {
+    "question_id": "WD_H_02",
+    "domain": "Web Development",
+    "difficulty": "hard",
+    "topic": "cors",
+    "type": "interview",
+    "question_text": "What is CORS?"
+  },
+  {
+    "question_id": "WD_H_03",
+    "domain": "Web Development",
+    "difficulty": "hard",
+    "topic": "event-loop",
+    "type": "interview",
+    "question_text": "Explain JavaScript event loop."
+  },
+
+  {
+    "question_id": "DB_E_01",
+    "domain": "Database",
+    "difficulty": "easy",
+    "topic": "database",
+    "type": "conceptual",
+    "question_text": "What is database?"
+  },
+  {
+    "question_id": "DB_E_02",
+    "domain": "Database",
+    "difficulty": "easy",
+    "topic": "table",
+    "type": "conceptual",
+    "question_text": "What is table?"
+  },
+  {
+    "question_id": "DB_E_03",
+    "domain": "Database",
+    "difficulty": "easy",
+    "topic": "key",
+    "type": "conceptual",
+    "question_text": "What is primary key?"
+  },
+  {
+    "question_id": "DB_M_01",
+    "domain": "Database",
+    "difficulty": "medium",
+    "topic": "foreign-key",
+    "type": "interview",
+    "question_text": "What is foreign key?"
+  },
+  {
+    "question_id": "DB_M_02",
+    "domain": "Database",
+    "difficulty": "medium",
+    "topic": "normalization",
+    "type": "interview",
+    "question_text": "Explain normalization."
+  },
+  {
+    "question_id": "DB_M_03",
+    "domain": "Database",
+    "difficulty": "medium",
+    "topic": "joins",
+    "type": "interview",
+    "question_text": "Explain SQL joins."
+  },
+  {
+    "question_id": "DB_M_04",
+    "domain": "Database",
+    "difficulty": "medium",
+    "topic": "sql-nosql",
+    "type": "interview",
+    "question_text": "Difference between SQL and NoSQL?"
+  },
+  {
+    "question_id": "DB_H_01",
+    "domain": "Database",
+    "difficulty": "hard",
+    "topic": "indexing",
+    "type": "interview",
+    "question_text": "What is indexing?"
+  },
+  {
+    "question_id": "DB_H_02",
+    "domain": "Database",
+    "difficulty": "hard",
+    "topic": "acid",
+    "type": "interview",
+    "question_text": "Explain ACID properties."
+  },
+  {
+    "question_id": "DB_H_03",
+    "domain": "Database",
+    "difficulty": "hard",
+    "topic": "optimization",
+    "type": "interview",
+    "question_text": "How does query optimization work?"
+  }
+]
